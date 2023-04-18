@@ -1,3 +1,3 @@
 # Ryuheavens
 
-Web pages for my projects
+Web site for my projects
